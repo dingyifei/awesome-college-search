@@ -1,8 +1,17 @@
 # awsome-college-search [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome college search websites, tools and resources
+A collection of awesome college search websites, tools and other resources
 
+## Contents
 
+<!-- toc -->
+
+- [Websites](#websites)
+
+## Websites
+
+- [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data, as well as scholarships. 
+- [College Board Big Future](https://bigfuture.collegeboard.org/college-search) - College search with variety of parameters. Simple to use and doesn't need an accout.
 
 ## License
 
