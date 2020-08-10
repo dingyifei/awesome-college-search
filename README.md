@@ -1,4 +1,4 @@
-# awsome-college-search [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-college-search [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome college search websites, tools and other resources
 
@@ -7,12 +7,12 @@ A collection of awesome college search websites, tools and other resources
 <!-- toc -->
 
 - [Websites](#websites)
-  - [College Search](#college search)
+  - [College Search](#college-search)
   - [Scholarships](#scholarships)
 - [Books](#books)
-  - [Test Prep](#test prep)
-  - [College Search](#college search)
-- [Words From Contributors](#words from contributors)
+  - [Test Prep](#test-prep)
+  - [College Search](#college-search)
+- [Words From Contributors](#words-from-contributors)
 ## Websites
 
 ### College Search
