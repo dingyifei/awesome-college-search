@@ -1,4 +1,6 @@
-# awesome-college-search [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-college-search 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome college search websites, tools and other resources
 
@@ -13,12 +15,13 @@ A collection of awesome college search websites, tools and other resources
   - [Test Prep](#test-prep)
   - [College Search](#college-search)
 - [Words From Contributors](#words-from-contributors)
+  - [Yifei Ding](#yifei-ding)
 ## Websites
 
 ### College Search
 
 - [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data in a great format.
-- [College Board Big Future](https://bigfuture.collegeboard.org/college-search) - College Board official college search. College search with variety of parameters. Simple to use and doesn't need an accout.
+- [College Board Big Future](https://bigfuture.collegeboard.org/college-search) - College Board official college search. College search with a variety of parameters. Simple to use and doesn't need an account.
 
 ### Scholarships
 
@@ -34,7 +37,7 @@ A collection of awesome college search websites, tools and other resources
 
 ### Yifei Ding
 
-2020/8/9: I'm bored and tired of doing college search so I decide to make this list to motivate myself. My english is not as fluent as native speakers, so if you find any errors and want to fix it, open a pull requerst or a issue! If you have any good resource and want to contribute, open a pull requerst or a issue!
+2020/8/9: I'm bored and tired of doing college search so I decide to make this list to motivate myself. My English is not as fluent as native speakers, so if you find any errors and want to fix it, open a pull request or an issue! If you have any good resources and want to contribute, open a pull request or an issue!
 
 ## License
 
