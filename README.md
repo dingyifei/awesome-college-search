@@ -9,19 +9,26 @@ A collection of awesome college search websites, tools and other resources
 - [Websites](#websites)
   - [College Search](#college_search)
   - [Scholarships](#scholarships)
+- [Books](#books)
+  - [Test Prep](#test_prep)
+  - [College Search](#college_search)
 
 ## Websites
 
 ### College_Search
 
-- [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data, as well as scholarships. 
+- [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data in a great format.
 - [College Board Big Future](https://bigfuture.collegeboard.org/college-search) - College Board official college search. College search with variety of parameters. Simple to use and doesn't need an accout.
 
 ### Scholarships
 
 - [College Board Opportunity Scholarships](https://opportunity.collegeboard.org/) - College Board official scholarship program, partner with Khan Academy. Minimal effort for a chance of scholarship.
 
+## Books
 
+### Test_Prep
+
+### College_Search
 
 ## License
 
