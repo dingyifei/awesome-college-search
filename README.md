@@ -63,12 +63,12 @@ A collection of awesome college search websites, tools and other resources
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/dingyifei/awsome-college-search">
+     href="https://github.com/dingyifei/Awesome-College-Search">
     <span property="dct:title">Yifei Ding</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">awsome-college-search</span>.
+  <span property="dct:title">Awesome College Search</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/dingyifei/awsome-college-search">
+      content="US" about="https://github.com/dingyifei/Awesome-College-Search">
   United States</span>.
 </p>
