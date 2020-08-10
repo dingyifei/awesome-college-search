@@ -7,15 +7,15 @@ A collection of awesome college search websites, tools and other resources
 <!-- toc -->
 
 - [Websites](#websites)
-  - [College Search](#college_search)
+  - [College Search](#college search)
   - [Scholarships](#scholarships)
 - [Books](#books)
-  - [Test Prep](#test_prep)
-  - [College Search](#college_search)
-
+  - [Test Prep](#test prep)
+  - [College Search](#college search)
+- [Words From Contributors](#words from contributors)
 ## Websites
 
-### College_Search
+### College Search
 
 - [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data in a great format.
 - [College Board Big Future](https://bigfuture.collegeboard.org/college-search) - College Board official college search. College search with variety of parameters. Simple to use and doesn't need an accout.
@@ -26,9 +26,15 @@ A collection of awesome college search websites, tools and other resources
 
 ## Books
 
-### Test_Prep
+### Test Prep
 
-### College_Search
+### College Search
+
+## Words From Contributors
+
+### Yifei Ding
+
+2020/8/9: I'm bored and tired of doing college search so I decide to make this list to motivate myself. My english is not as fluent as native speakers, so if you find any errors and want to fix it, open a pull requerst or a issue! If you have any good resource and want to contribute, open a pull requerst or a issue!
 
 ## License
 
