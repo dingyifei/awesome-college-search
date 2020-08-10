@@ -22,8 +22,9 @@ A collection of awesome college search websites, tools and other resources
 ### College Search
 
 - [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data in a great format.
-- [College Board Big Future](https://bigfuture.collegeboard.org/college-search) - College Board official college search. College search with a variety of parameters. Simple to use and doesn't need an account.
+- [College Board Big Future](https://bigfuture.collegeboard.org) - College Board official college search and scholarship search. College search come with a variety of parameters. It's clear and can store parameters.
 - [US News Best Colleges](https://www.usnews.com/best-colleges) - US News official ranking, include specific majors.
+- [Peterson's](https://www.petersons.com/college-search.aspx) - Has a discovery center to just look around.
 
 ### Scholarships
 
@@ -31,9 +32,10 @@ A collection of awesome college search websites, tools and other resources
 
 ### Test Prep
 
-- [Khan Academy](https://www.khanacademy.org/) - official SAT prep, have 10 printable/online practice test. Completely free.
+- [Khan Academy](https://www.khanacademy.org/) - Official SAT prep, have 10 printable/online practice test. Completely free.
 
-
+- [ACT Academy](https://actacademy.act.org/) - Official ACT prep for people who are new to ACT, explain things in videos and have a built-in mini-test. Completely free.
+- [Online Prep ACT](https://onlineprep.act.org/) - Official ACT prep with two ACT practice test online and bunch of questions. It come with flash card and games. Cost around $40 depending whether you choose to buy the Prep Pack or Online Prep only. 
 
 ## Books
 
