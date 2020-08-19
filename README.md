@@ -1,4 +1,4 @@
-# awesome-college-search 
+# awesome college search 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -66,12 +66,12 @@ A collection of awesome college search websites, tools and other resources
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/dingyifei/awsome-college-search">
+     href="https://github.com/dingyifei/awesome-college-search">
     <span property="dct:title">Yifei Ding</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">awsome-college-search</span>.
+  <span property="dct:title">awesome college search</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/dingyifei/awsome-college-search">
+      content="US" about="https://github.com/dingyifei/awesome-college-search">
   United States</span>.
 </p>
