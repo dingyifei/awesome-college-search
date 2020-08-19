@@ -6,6 +6,8 @@ A collection of awesome college search websites, tools and other resources
 
 ## Contents
 
+[TOC]
+
 <!-- toc -->
 
 - [Websites](#websites)
@@ -23,8 +25,9 @@ A collection of awesome college search websites, tools and other resources
 
 - [Niche](https://www.niche.com/) - Provides unique college ranking, cost, and general admission data in a great format.
 - [College Board Big Future](https://bigfuture.collegeboard.org) - College Board official college search and scholarship search. College search come with a variety of parameters. It's clear and can store parameters.
-- [US News Best Colleges](https://www.usnews.com/best-colleges) - US News official ranking, include specific majors.
+- [The World Universtiy Ranking](https://www.timeshighereducation.com/) - Ranking with specific sub scores. Note: they rank British colleges higher than other countries' colleges.
 - [Peterson's](https://www.petersons.com/college-search.aspx) - Has a discovery center to just look around.
+- [US News Best Colleges](https://www.usnews.com/best-colleges) - US News official ranking, include specific majors. (not the best)
 
 ### Scholarships
 
