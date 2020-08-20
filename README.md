@@ -6,8 +6,6 @@ A collection of awesome college search websites, tools and other resources
 
 ## Contents
 
-[TOC]
-
 <!-- toc -->
 
 - [Websites](#websites)
